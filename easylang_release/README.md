@@ -54,7 +54,7 @@ That's it. That's real, running code.
 ### Linux / macOS
 
 ```bash
-git clone https://github.com/yourusername/easylang
+git clone https://github.com/easylangadmin/easylang
 cd easylang
 chmod +x install.sh
 ./install.sh
@@ -63,7 +63,7 @@ chmod +x install.sh
 ### Windows
 
 ```batch
-git clone https://github.com/yourusername/easylang
+git clone https://github.com/easylangadmin/easylang
 cd easylang
 install.bat
 ```
